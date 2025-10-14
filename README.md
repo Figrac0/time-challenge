@@ -47,5 +47,5 @@ By studying this code, you can learn:
 - How to design components with controlled imperative methods.
 - How to integrate state, refs, and side effects to synchronize UI and logic.
 
-## Project Structure
+
 
